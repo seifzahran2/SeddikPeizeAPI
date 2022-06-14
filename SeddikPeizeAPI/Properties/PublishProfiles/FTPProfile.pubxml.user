@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMzZBVs9chEui6R5ttPVfuAAAAAACAAAAAAAQZgAAAAEAACAAAACoG0LEvP+bdBWS/9C3WQLYDBzy5FyzpF3gSSlyVHHvPAAAAAAOgAAAAAIAACAAAADXO/PFY1LpNPqh3L7lPC0qGvdB304Ffps+OpWn8nJ9QSAAAABM3vE1UmXyjuutoiwEV5u7yok2oLEaiTBEbhBsLnCIGEAAAABKrg5FcmuIiKXhKofu9zqyQ1+TU5kEEzLuow0Sh3lcBjbMdbiiTrWb0sSdndiC687EdMegKOpSfFElbLrdJDd4</EncryptedPassword>
+    <_PublishTargetUrl>ftp://siddiKAfifi.somee.com/www.siddiKAfifi.somee.com</_PublishTargetUrl>
+    <History>True|2022-06-14T15:38:34.5067182Z;False|2022-06-14T17:37:36.9751724+02:00;True|2022-06-14T01:29:12.0894817+02:00;False|2022-06-14T01:28:44.5388378+02:00;True|2022-06-14T01:24:34.4983560+02:00;True|2022-06-14T01:12:00.6552992+02:00;False|2022-06-14T01:11:12.6393346+02:00;True|2022-06-14T00:34:25.1736456+02:00;True|2022-06-13T19:02:45.6184875+02:00;False|2022-06-13T19:02:04.4816299+02:00;True|2022-06-13T18:57:23.5583387+02:00;False|2022-06-13T18:56:50.5219269+02:00;True|2022-06-13T14:49:34.1222161+02:00;True|2022-06-13T13:37:13.0489366+02:00;False|2022-06-13T13:35:43.7313154+02:00;True|2022-06-11T19:04:06.0548921+02:00;False|2022-06-11T19:03:07.3492446+02:00;True|2022-06-11T18:53:56.7221200+02:00;False|2022-06-11T18:53:20.3662874+02:00;True|2022-06-11T18:49:24.9194030+02:00;False|2022-06-11T18:48:16.1116255+02:00;False|2022-06-11T16:48:26.5316385+02:00;True|2022-06-11T16:43:53.8113686+02:00;False|2022-06-11T16:42:11.9718213+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/10/2022 13:37:16</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/10/2022 23:41:06</publishTime>
+    </File>
+    <File Include="AspNetCore.Jwt.dll">
+      <publishTime>08/24/2018 19:39:24</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>12/14/2020 07:06:10</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.Internal.dll">
+      <publishTime>12/14/2020 07:03:20</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.KeyDerivation.dll">
+      <publishTime>12/14/2020 07:04:50</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll">
+      <publishTime>12/14/2020 07:05:16</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>06/07/2018 02:26:56</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Razor.Extensions.dll">
+      <publishTime>06/07/2018 02:27:00</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Razor.Language.dll">
+      <publishTime>06/07/2018 02:26:56</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/30/2018 18:29:02</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.dll">
+      <publishTime>04/30/2018 18:29:02</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Razor.dll">
+      <publishTime>06/07/2018 02:27:00</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>08/26/2020 01:24:48</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 22:34:56</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 22:31:56</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>05/15/2018 23:01:34</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>12/12/2020 09:17:58</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>12/12/2020 09:18:16</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>12/12/2020 09:18:22</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>12/12/2020 09:18:52</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>11/26/2020 03:59:12</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>05/15/2018 23:01:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Identity.Core.dll">
+      <publishTime>12/14/2020 07:04:50</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Identity.Stores.dll">
+      <publishTime>12/14/2020 07:05:08</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>05/18/2020 22:11:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>06/30/2020 03:04:58</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>06/30/2020 03:05:58</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>06/30/2020 03:06:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>06/30/2020 03:13:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>06/30/2020 03:09:50</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 22:14:12</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.Bson.dll">
+      <publishTime>03/22/2017 13:01:20</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/24/2018 19:44:14</publishTime>
+    </File>
+    <File Include="SeddikPeizeAPI.deps.json">
+      <publishTime>06/14/2022 17:37:26</publishTime>
+    </File>
+    <File Include="SeddikPeizeAPI.dll">
+      <publishTime>06/14/2022 17:38:25</publishTime>
+    </File>
+    <File Include="SeddikPeizeAPI.exe">
+      <publishTime>06/14/2022 17:38:25</publishTime>
+    </File>
+    <File Include="SeddikPeizeAPI.pdb">
+      <publishTime>06/14/2022 17:38:25</publishTime>
+    </File>
+    <File Include="SeddikPeizeAPI.runtimeconfig.json">
+      <publishTime>06/10/2022 19:14:51</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>09/23/2020 14:47:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>09/23/2020 14:47:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>09/23/2020 14:47:24</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/15/2019 10:37:04</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>12/12/2020 04:40:42</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>06/30/2020 03:03:46</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>11/15/2019 10:53:44</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 10:53:46</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/14/2022 17:38:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
