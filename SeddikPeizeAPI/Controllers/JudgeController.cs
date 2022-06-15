@@ -55,11 +55,7 @@ namespace SeddikPeizeAPI.Controllers
                 ProjectModel.Check = false;
                 return BadRequest(new { ProjectModel.Message, ProjectModel.Check });
             }
-            if(userProj.Result==null)
-            {
-                userProj.Result = "لما يتم تقييمه";
-                return Ok(userProj);
-            }
+            
             return Ok(userProj);
         }
 

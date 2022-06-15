@@ -14,6 +14,7 @@ namespace SeddikPeizeAPI.Models.ViewModels
         [Required(ErrorMessage = "تاكد من ادخال الرقم السري")]
         public string Password { get; set; }
         [Required(ErrorMessage = "تاكد من ادخال تأكيد الرقم السري")]
+        [Compare("Password", ErrorMessage = "الرقم السري و تأكيد الرقم السري غير متطابقين")]
         public string ConfPassword { get; set; }
         [Required(ErrorMessage = "تاكد من ادخال عمرك")]
         public int age { get; set; }
